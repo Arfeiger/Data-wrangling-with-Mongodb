@@ -1,0 +1,1174 @@
+[
+  {
+    "uri": "nyt://article/c7bc175d-401c-5e36-9598-1cfb7992d1df",
+    "url": "https://www.nytimes.com/2020/08/11/us/politics/kamala-harris-vp-biden.html",
+    "id": 100000007260705,
+    "asset_id": 100000007260705,
+    "source": "New York Times",
+    "published_date": "2020-08-11",
+    "updated": "2020-08-13 09:18:55",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Presidential Election of 2020;Vice Presidents and Vice Presidency (US);United States Politics and Government;Black People;Women and Girls;Harris, Kamala D;Biden, Joseph R Jr;Democratic Party",
+    "column": null,
+    "byline": "By Alexander Burns and Katie Glueck",
+    "type": "Article",
+    "title": "Kamala Harris Is Biden\u2019s Choice for Vice President",
+    "abstract": "A former rival for the Democratic presidential nomination, she will be the first woman of color to be nominated for national office by a major political party.",
+    "des_facet": [
+      "Presidential Election of 2020",
+      "Vice Presidents and Vice Presidency (US)",
+      "United States Politics and Government",
+      "Black People",
+      "Women and Girls"
+    ],
+    "org_facet": [
+      "Democratic Party"
+    ],
+    "per_facet": [
+      "Harris, Kamala D",
+      "Biden, Joseph R Jr"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Senator Kamala Harris spent most of her career as a prosecutor and has been a reliable ally of the Democratic establishment.",
+        "copyright": "Elizabeth Frantz for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/us/politics/00VP-harrisHFO-top/00VP-harrisHFO-top-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/us/politics/00VP-harrisHFO-top/merlin_160364502_092cbb05-a2b0-4882-8b5a-9b01f847b29a-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/us/politics/00VP-harrisHFO-top/merlin_160364502_092cbb05-a2b0-4882-8b5a-9b01f847b29a-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/5565a560-c39e-55f7-93c3-3b7a072bc05a",
+    "url": "https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html",
+    "id": 100000007280774,
+    "asset_id": 100000007280774,
+    "source": "New York Times",
+    "published_date": "2020-08-11",
+    "updated": "2020-08-13 17:23:40",
+    "section": "Health",
+    "subsection": "",
+    "nytdsection": "health",
+    "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Risks and Safety Concerns;RNA (Ribonucleic Acid);Hospitals;Epidemics;Disease Rates;your-feed-science;Marr, Linsey;Lednicky, John;University of Florida;Gainesville (Fla)",
+    "column": null,
+    "byline": "By Apoorva Mandavilli",
+    "type": "Article",
+    "title": "\u2018A Smoking Gun\u2019: Infectious Coronavirus Retrieved From Hospital Air",
+    "abstract": "Airborne virus plays a significant role in community transmission, many experts believe. A new study fills in the missing piece: Floating virus can infect cells.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Coronavirus Risks and Safety Concerns",
+      "RNA (Ribonucleic Acid)",
+      "Hospitals",
+      "Epidemics",
+      "Disease Rates",
+      "your-feed-science"
+    ],
+    "org_facet": [
+      "University of Florida"
+    ],
+    "per_facet": [
+      "Marr, Linsey",
+      "Lednicky, John"
+    ],
+    "geo_facet": [
+      "Gainesville (Fla)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Doctors in Johannesburg demonstrated how to place a device called an intubox over a patient, to help curb the spread of viral droplets during intubation.",
+        "copyright": "Michele Spatari/Agence France-Presse \u2014 Getty Images",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/11VIRUS-AEROSOLS1/11VIRUS-AEROSOLS1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/11VIRUS-AEROSOLS1/11VIRUS-AEROSOLS1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/11VIRUS-AEROSOLS1/11VIRUS-AEROSOLS1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/a100f6b6-ad75-5468-88ee-6286aba7a838",
+    "url": "https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html",
+    "id": 100000007229717,
+    "asset_id": 100000007229717,
+    "source": "New York Times",
+    "published_date": "2020-08-09",
+    "updated": "2020-08-13 11:47:06",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Presidential Election of 2020;Whites;Evangelical Movement;United States Politics and Government;Freedom of Religion;Trump, Donald J;Dordt University;Iowa",
+    "column": null,
+    "byline": "By Elizabeth Dias",
+    "type": "Article",
+    "title": "\u2018Christianity Will Have Power\u2019",
+    "abstract": "Donald Trump made a promise to white evangelical Christians, whose support can seem mystifying to the outside observer.",
+    "des_facet": [
+      "Presidential Election of 2020",
+      "Whites",
+      "Evangelical Movement",
+      "United States Politics and Government",
+      "Freedom of Religion"
+    ],
+    "org_facet": [
+      "Dordt University"
+    ],
+    "per_facet": [
+      "Trump, Donald J"
+    ],
+    "geo_facet": [
+      "Iowa"
+    ],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/eb4ef218-c01c-5b07-af1b-246d20d834ba",
+    "url": "https://www.nytimes.com/2020/08/12/technology/qanon-save-the-children-trafficking.html",
+    "id": 100000007281687,
+    "asset_id": 100000007281687,
+    "source": "New York Times",
+    "published_date": "2020-08-12",
+    "updated": "2020-08-13 18:06:05",
+    "section": "Technology",
+    "subsection": "",
+    "nytdsection": "technology",
+    "adx_keywords": "QAnon;Rumors and Misinformation;Child Abuse and Neglect;Human Trafficking;Sex Crimes;Social Media;Fringe Groups and Movements;Computers and the Internet;Conspiracy Theories;Trump, Donald J;Facebook Inc;Wayfair Inc",
+    "column": null,
+    "byline": "By Kevin Roose",
+    "type": "Article",
+    "title": "QAnon Followers Are Hijacking the #SaveTheChildren Movement",
+    "abstract": "Fans of the pro-Trump conspiracy theory are clogging anti-trafficking hotlines, infiltrating Facebook groups and raising false fears about child exploitation.",
+    "des_facet": [
+      "QAnon",
+      "Rumors and Misinformation",
+      "Child Abuse and Neglect",
+      "Human Trafficking",
+      "Sex Crimes",
+      "Social Media",
+      "Fringe Groups and Movements",
+      "Computers and the Internet",
+      "Conspiracy Theories"
+    ],
+    "org_facet": [
+      "Facebook Inc",
+      "Wayfair Inc"
+    ],
+    "per_facet": [
+      "Trump, Donald J"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A woman holding up a hat with a Q on it, denoting QAnon, at a 2018 rally for President Trump.",
+        "copyright": "Al Drago for The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/business/12roose/12roose-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/business/12roose/12roose-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/business/12roose/12roose-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/ef8de76b-cb6b-55e2-9a1c-1e8165c20cb7",
+    "url": "https://www.nytimes.com/2020/08/10/books/nicole-tersigni-men-to-avoid-in-art-and-life.html",
+    "id": 100000007254289,
+    "asset_id": 100000007254289,
+    "source": "New York Times",
+    "published_date": "2020-08-10",
+    "updated": "2020-08-14 00:34:08",
+    "section": "Books",
+    "subsection": "",
+    "nytdsection": "books",
+    "adx_keywords": "Books and Literature;Women and Girls;Comedy and Humor;Social Media;Writing and Writers;Art;Discrimination;Tersigni, Nicole",
+    "column": null,
+    "byline": "By Alisha Haridasani Gupta",
+    "type": "Article",
+    "title": "She Explains \u2018Mansplaining\u2019 With Help From 17th-Century Art",
+    "abstract": "In her new book \u201cMen to Avoid in Art and Life,\u201d Nicole Tersigni harnesses her skill with a Twitter meme to illuminate the experience of women harassed by concern trolls, \u201csexperts\u201d and more.",
+    "des_facet": [
+      "Books and Literature",
+      "Women and Girls",
+      "Comedy and Humor",
+      "Social Media",
+      "Writing and Writers",
+      "Art",
+      "Discrimination"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Tersigni, Nicole"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Among the \u201ctypes\u201d Nicole Tersigni describes in her book are concern trolls, who \u201cuse their faux-worry to undermine or criticize you.\u201d",
+        "copyright": "",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/books/OOMEN2AVOID/OOMEN2AVOID-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/books/OOMEN2AVOID/OOMEN2AVOID-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/12/books/OOMEN2AVOID/OOMEN2AVOID-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/18d673af-1485-5fc9-9f31-5aaa97953b4a",
+    "url": "https://www.nytimes.com/2020/08/11/nyregion/nyc-economy-chain-stores.html",
+    "id": 100000007258332,
+    "asset_id": 100000007258332,
+    "source": "New York Times",
+    "published_date": "2020-08-11",
+    "updated": "2020-08-12 12:14:11",
+    "section": "New York",
+    "subsection": "",
+    "nytdsection": "new york",
+    "adx_keywords": "Restaurants;Shopping and Retail;Shutdowns (Institutional);Economic Conditions and Trends;Coronavirus Reopenings;Real Estate (Commercial);Landlords;Fast Food Industry;Shopping Centers and Malls;Ark Restaurants Corp;Bryant Park Grill;Victoria's Secret;New York City",
+    "column": null,
+    "byline": "By Matthew Haag and Patrick McGeehan",
+    "type": "Article",
+    "title": "Retail Chains Abandon Manhattan: \u2018It\u2019s Unsustainable\u2019",
+    "abstract": "Some national chains, both retail and restaurants, are closing outlets in New York City, which are struggling more than their branches elsewhere.",
+    "des_facet": [
+      "Restaurants",
+      "Shopping and Retail",
+      "Shutdowns (Institutional)",
+      "Economic Conditions and Trends",
+      "Coronavirus Reopenings",
+      "Real Estate (Commercial)",
+      "Landlords",
+      "Fast Food Industry",
+      "Shopping Centers and Malls"
+    ],
+    "org_facet": [
+      "Ark Restaurants Corp",
+      "Bryant Park Grill",
+      "Victoria's Secret"
+    ],
+    "per_facet": [],
+    "geo_facet": [
+      "New York City"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A Gap store near Rockefeller Center. Many companies have kept their stores closed in New York, even as they have opened stores in other parts of the country.\u00a0",
+        "copyright": "Hiroko Masuike/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/30/nyregion/00NYVIRUS-CHAINSTORES/00NYVIRUS-CHAINSTORES-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/30/nyregion/00NYVIRUS-CHAINSTORES/00NYVIRUS-CHAINSTORES-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/30/nyregion/00NYVIRUS-CHAINSTORES/00NYVIRUS-CHAINSTORES-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/27dd9f30-ad63-52fe-95ab-1eba3d6a553b",
+    "url": "https://www.nytimes.com/2020/08/09/world/coronavirus-covid-19.html",
+    "id": 100000007279834,
+    "asset_id": 100000007279834,
+    "source": "New York Times",
+    "published_date": "2020-08-09",
+    "updated": "2020-08-10 05:23:27",
+    "section": "World",
+    "subsection": "",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "At Least 97,000 Children in the U.S. Tested Positive in Last 2 Weeks of July",
+    "abstract": "Trump\u2019s unilateral economic relief actions come under fire. Ohio\u2019s governor urges use of rapid tests, but with caution after his false positive.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/18505eed-5c73-54ca-a1e1-68bc8556ab88",
+    "url": "https://www.nytimes.com/2020/08/06/us/north-paulding-high-school-coronavirus-georgia.html",
+    "id": 100000007276148,
+    "asset_id": 100000007276148,
+    "source": "New York Times",
+    "published_date": "2020-08-06",
+    "updated": "2020-08-12 08:33:11",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Education (K-12);Coronavirus (2019-nCoV);Social Media;Photography;Coronavirus Reopenings;North Paulding High School (Dallas, Ga);Georgia;Dallas (Ga)",
+    "column": null,
+    "byline": "By Giulia McDonnell Nieto del Rio",
+    "type": "Article",
+    "title": "Suspension Lifted of Georgia Student Who Posted Photos of Crowded Hall",
+    "abstract": "\u201cThe photo does not look good,\u201d the district\u2019s superintendent acknowledged in a letter to parents, but said wearing masks in school could not be mandated.",
+    "des_facet": [
+      "Education (K-12)",
+      "Coronavirus (2019-nCoV)",
+      "Social Media",
+      "Photography",
+      "Coronavirus Reopenings"
+    ],
+    "org_facet": [
+      "North Paulding High School (Dallas, Ga)"
+    ],
+    "per_facet": [],
+    "geo_facet": [
+      "Georgia",
+      "Dallas (Ga)"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A crowded hallway at North Paulding High School in Dallas, Ga., on Tuesday.",
+        "copyright": "Hannah Watters, via Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/us/06virus-hallway/06virus-hallway-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/us/06virus-hallway/06virus-hallway-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/us/06virus-hallway/06virus-hallway-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/d63bb241-40a5-5bcc-8a5f-4a357048e084",
+    "url": "https://www.nytimes.com/2020/08/07/travel/Canada-border-crossings-coronavirus.html",
+    "id": 100000007274049,
+    "asset_id": 100000007274049,
+    "source": "New York Times",
+    "published_date": "2020-08-07",
+    "updated": "2020-08-09 13:08:00",
+    "section": "Travel",
+    "subsection": "",
+    "nytdsection": "travel",
+    "adx_keywords": "Coronavirus (2019-nCoV);Travel and Vacations;Fines (Penalties);Banff (Alberta);Alaska;Canada;United States",
+    "column": null,
+    "byline": "By Karen Schwartz",
+    "type": "Article",
+    "title": "Canada to U.S. Visitors: Please Don\u2019t Sneak Across the Border",
+    "abstract": "Some Canadian citizens, concerned about the spread of the coronavirus, are taking matters into their own hands and reporting illegal American visitors.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Travel and Vacations",
+      "Fines (Penalties)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "Banff (Alberta)",
+      "Alaska",
+      "Canada",
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Sites like the glacier-fed Two Jack Lake in Banff National Park, Alberta, draw Americans every year. But this year, with the pandemic, some Canadian citizens are reporting unwanted U.S. tourists to the authorities.",
+        "copyright": "Nina Shelanski ",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/travel/07canada-virus/oakImage-1596744232455-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/travel/07canada-virus/07canada-virus-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/travel/07canada-virus/07canada-virus-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/2ae27812-98f0-55b3-bafe-2a81dbcd8652",
+    "url": "https://www.nytimes.com/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html",
+    "id": 100000007276259,
+    "asset_id": 100000007276259,
+    "source": "New York Times",
+    "published_date": "2020-08-07",
+    "updated": "2020-08-09 23:17:31",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "Contact Tracing (Public Health);Coronavirus (2019-nCoV);United States Economy;Quarantines;Disease Rates;United States",
+    "column": null,
+    "byline": "By Michael T. Osterholm and Neel Kashkari",
+    "type": "Article",
+    "title": "Here\u2019s How to Crush the Virus Until Vaccines Arrive",
+    "abstract": "To save lives, and save the economy, we need another lockdown.",
+    "des_facet": [
+      "Contact Tracing (Public Health)",
+      "Coronavirus (2019-nCoV)",
+      "United States Economy",
+      "Quarantines",
+      "Disease Rates"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "More than a third of all U.S. coronavirus cases occurred in July.",
+        "copyright": "Frederic J. Brown/Agence France-Presse \u2014 Getty Images",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/opinion/10Osterholm1/07Osterholm1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/opinion/10Osterholm1/07Osterholm1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/10/opinion/10Osterholm1/07Osterholm1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/819505e2-c235-53fa-a721-f161e7416f44",
+    "url": "https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html",
+    "id": 100000007278987,
+    "asset_id": 100000007278987,
+    "source": "New York Times",
+    "published_date": "2020-08-08",
+    "updated": "2020-08-10 11:50:06",
+    "section": "World",
+    "subsection": "",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "U.S. Surpasses 5 Million Cases",
+    "abstract": "President Trump signed executive measures for pandemic relief as stimulus talks stalled. And Brazil reached two coronavirus milestones: more than 100,000 deaths and more than three million cases.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/d5ad0521-c5f5-5749-8adf-d11d15d7f00d",
+    "url": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html",
+    "id": 100000007282131,
+    "asset_id": 100000007282131,
+    "source": "New York Times",
+    "published_date": "2020-08-11",
+    "updated": "2020-08-14 17:36:08",
+    "section": "World",
+    "subsection": "",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "Texas Has Too Many Cases to Reopen, Governor Warns",
+    "abstract": "Russia approved a vaccine that has yet to complete clinical trials. The White House announced a deal to manufacture 100 million doses of its vaccine candidate. New Zealand returned to a partial lockdown.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/be863dc4-084d-597d-8d41-af9401dcdb4d",
+    "url": "https://www.nytimes.com/2020/08/08/us/politics/kristi-noem-pence-trump.html",
+    "id": 100000007277179,
+    "asset_id": 100000007277179,
+    "source": "New York Times",
+    "published_date": "2020-08-08",
+    "updated": "2020-08-09 03:08:44",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Presidential Election of 2020;Vice Presidents and Vice Presidency (US);Noem, Kristi;Trump, Donald J;Pence, Mike;Lewandowski, Corey (1975- );Haley, Nikki R;Mount Rushmore National Memorial (SD);South Dakota",
+    "column": null,
+    "byline": "By Jonathan Martin and Maggie Haberman",
+    "type": "Article",
+    "title": "How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence\u2019s Job",
+    "abstract": "After Ms. Noem, the South Dakota governor, flew to Washington on Air Force One, rumors about her ambitions ensued. She made a second trip to smooth things over with Mike Pence.",
+    "des_facet": [
+      "Presidential Election of 2020",
+      "Vice Presidents and Vice Presidency (US)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Noem, Kristi",
+      "Trump, Donald J",
+      "Pence, Mike",
+      "Lewandowski, Corey (1975- )",
+      "Haley, Nikki R"
+    ],
+    "geo_facet": [
+      "Mount Rushmore National Memorial (SD)",
+      "South Dakota"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Gov. Kristi Noem of South Dakota told Vice President Mike Pence that she wanted to help him and President Trump win re-election however she could.",
+        "copyright": "Ryan Hermens/Rapid City Journal, via Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/fdb6dc28-a3ff-5308-8a16-3f17a4c1e353",
+    "url": "https://www.nytimes.com/2020/08/08/magazine/us-russia-intelligence.html",
+    "id": 100000007276213,
+    "asset_id": 100000007276213,
+    "source": "New York Times",
+    "published_date": "2020-08-08",
+    "updated": "2020-08-12 22:26:11",
+    "section": "Magazine",
+    "subsection": "",
+    "nytdsection": "magazine",
+    "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;United States International Relations;Presidential Election of 2020;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Espionage and Intelligence Services;Trump, Donald J;Coats, Dan;Sanner, Beth;Maguire, Joseph (1952- );Sanders, Bernard;Haspel, Gina;Ratcliffe, John Lee (1965- );Pierson, Shelby;Grenell, Richard;Patel, Kashyap;Office of the Director of National Intelligence;Central Intelligence Agency;Russia",
+    "column": null,
+    "byline": "By Robert Draper",
+    "type": "Article",
+    "title": "Unwanted Truths: Inside Trump\u2019s Battles With U.S. Intelligence Agencies",
+    "abstract": "Last year, intelligence officials gathered to write a classified report on Russia\u2019s interest in the 2020 election. An investigation from the magazine uncovered what happened next.",
+    "des_facet": [
+      "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+      "United States Politics and Government",
+      "United States International Relations",
+      "Presidential Election of 2020",
+      "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+      "Espionage and Intelligence Services"
+    ],
+    "org_facet": [
+      "Office of the Director of National Intelligence",
+      "Central Intelligence Agency"
+    ],
+    "per_facet": [
+      "Trump, Donald J",
+      "Coats, Dan",
+      "Sanner, Beth",
+      "Maguire, Joseph (1952- )",
+      "Sanders, Bernard",
+      "Haspel, Gina",
+      "Ratcliffe, John Lee (1965- )",
+      "Pierson, Shelby",
+      "Grenell, Richard",
+      "Patel, Kashyap"
+    ],
+    "geo_facet": [
+      "Russia"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Doug Mills/The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-thumbStandard.png",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-mediumThreeByTwo210.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-mediumThreeByTwo440.png",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/2fe5a02c-5b50-515e-ad6c-483f9fa8eced",
+    "url": "https://www.nytimes.com/2020/08/09/us/politics/trump-stimulus-bill-coronavirus.html",
+    "id": 100000007280238,
+    "asset_id": 100000007280238,
+    "source": "New York Times",
+    "published_date": "2020-08-09",
+    "updated": "2020-08-13 20:33:25",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "United States Politics and Government;United States Economy;Coronavirus (2019-nCoV);Coronavirus Aid, Relief, and Economic Security Act (2020);Stimulus (Economic);Federal Budget (US);Federal Aid (US);Federal Taxes (US);Payroll Tax;Unemployment;Unemployment Insurance;Labor and Jobs;Small Business;Executive Orders and Memorandums;Trump, Donald J;Mnuchin, Steven T;Kudlow, Lawrence A;Pelosi, Nancy;Treasury Department;House of Representatives;Senate;Democratic Party;Republican Party",
+    "column": null,
+    "byline": "By Emily Cochrane, Alan Rappeport and Luke Broadwater",
+    "type": "Article",
+    "title": "Trump\u2019s Orders on Coronavirus Relief Create Confusion",
+    "abstract": "Businesses and the unemployed faced uncertainty as administration officials defended the president\u2019s directives and Democrats criticized them.",
+    "des_facet": [
+      "United States Politics and Government",
+      "United States Economy",
+      "Coronavirus (2019-nCoV)",
+      "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+      "Stimulus (Economic)",
+      "Federal Budget (US)",
+      "Federal Aid (US)",
+      "Federal Taxes (US)",
+      "Payroll Tax",
+      "Unemployment",
+      "Unemployment Insurance",
+      "Labor and Jobs",
+      "Small Business",
+      "Executive Orders and Memorandums"
+    ],
+    "org_facet": [
+      "Treasury Department",
+      "House of Representatives",
+      "Senate",
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "per_facet": [
+      "Trump, Donald J",
+      "Mnuchin, Steven T",
+      "Kudlow, Lawrence A",
+      "Pelosi, Nancy"
+    ],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "\u201cWe don\u2019t have to get everything done at once,\u201d Treasury Secretary Steven Mnuchin said. \u201cWhat we should do is get things done for the American public now, come back for another bill afterward.\u201d",
+        "copyright": "Andrew Harnik/Associated Press",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/09/us/09dc-virus-cong/09dc-virus-cong-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/09/us/09dc-virus-cong/09dc-virus-cong-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/09/us/09dc-virus-cong/09dc-virus-cong-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/3ec5208a-4afa-5f5d-967c-671161a445bc",
+    "url": "https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html",
+    "id": 100000007278985,
+    "asset_id": 100000007278985,
+    "source": "New York Times",
+    "published_date": "2020-08-07",
+    "updated": "2020-08-11 11:50:15",
+    "section": "U.S.",
+    "subsection": "",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Coronavirus (2019-nCoV);Motorcycles, Motor Bikes and Motorscooters;Masks;Coronavirus Risks and Safety Concerns;Sturgis (SD)",
+    "column": null,
+    "byline": "By Mark Walker",
+    "type": "Article",
+    "title": "\u2018If We Get It, We Chose to Be Here\u2019: Despite Virus, Thousands Converge on Sturgis for Huge Rally",
+    "abstract": "Tens of thousands of motorcyclists roared into the western South Dakota community on Friday, lining Main Street from end to end, for the start of the annual Sturgis Motorcycle Rally.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Motorcycles, Motor Bikes and Motorscooters",
+      "Masks",
+      "Coronavirus Risks and Safety Concerns"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [
+      "Sturgis (SD)"
+    ],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/d2574f47-29ec-5f2d-b7dc-1508a6fca7dd",
+    "url": "https://www.nytimes.com/2020/08/13/us/politics/trump-israel-united-arab-emirates-uae.html",
+    "id": 100000007287161,
+    "asset_id": 100000007287161,
+    "source": "New York Times",
+    "published_date": "2020-08-13",
+    "updated": "2020-08-14 22:21:22",
+    "section": "U.S.",
+    "subsection": "Politics",
+    "nytdsection": "u.s.",
+    "adx_keywords": "Palestinians;Israeli Settlements;International Relations;United States International Relations;Netanyahu, Benjamin;Nahyan, Mohamed bin Zayed al- (1961- );Trump, Donald J;Israel;United Arab Emirates;West Bank",
+    "column": null,
+    "byline": "By Peter Baker, Isabel Kershner, David D. Kirkpatrick and Ronen Bergman",
+    "type": "Article",
+    "title": "Israel and United Arab Emirates Strike Major Diplomatic Agreement",
+    "abstract": "President Trump announced that Israel and the United Arab Emirates would establish \u201cfull normalization of relations\u201d and that in exchange Israel would forgo for now \u201cdeclaring sovereignty\u201d over occupied West Bank territory.",
+    "des_facet": [
+      "Palestinians",
+      "Israeli Settlements",
+      "International Relations",
+      "United States International Relations"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Netanyahu, Benjamin",
+      "Nahyan, Mohamed bin Zayed al- (1961- )",
+      "Trump, Donald J"
+    ],
+    "geo_facet": [
+      "Israel",
+      "United Arab Emirates",
+      "West Bank"
+    ],
+    "media": [],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/6d92f5bd-45da-56ca-b5c3-214415367361",
+    "url": "https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html",
+    "id": 100000007275873,
+    "asset_id": 100000007275873,
+    "source": "New York Times",
+    "published_date": "2020-08-06",
+    "updated": "2020-08-11 01:03:26",
+    "section": "Health",
+    "subsection": "",
+    "nytdsection": "health",
+    "adx_keywords": "Coronavirus (2019-nCoV);Immune System;Research;Vaccination and Immunization;your-feed-science;your-feed-health",
+    "column": null,
+    "byline": "By Katherine J. Wu",
+    "type": "Article",
+    "title": "The Coronavirus Is New, but Your Immune System Might Still Recognize It",
+    "abstract": "Some people carry immune cells called T cells that can capitalize on the virus\u2019s resemblance to other members of its family tree.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)",
+      "Immune System",
+      "Research",
+      "Vaccination and Immunization",
+      "your-feed-science",
+      "your-feed-health"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A colorized scanning electron micrograph of a human T cell. Encounters with other coronaviruses may prime the immune system to fight the virus that causes Covid-19.",
+        "copyright": "Science Source",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/06VIRUS-CROSS-REACTIVE1/merlin_175379085_78b2b3e8-142e-42c8-a9a1-d1d49b9a539c-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/06VIRUS-CROSS-REACTIVE1/06VIRUS-CROSS-REACTIVE1-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/11/science/06VIRUS-CROSS-REACTIVE1/06VIRUS-CROSS-REACTIVE1-mediumThreeByTwo440-v2.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/f9ddcdee-631d-5644-8ca3-0570cbe9170f",
+    "url": "https://www.nytimes.com/2020/08/05/opinion/2020-election-prediction-allan-lichtman.html",
+    "id": 100000007227786,
+    "asset_id": 100000007227786,
+    "source": "New York Times",
+    "published_date": "2020-08-05",
+    "updated": "2020-08-07 00:22:54",
+    "section": "Opinion",
+    "subsection": "",
+    "nytdsection": "opinion",
+    "adx_keywords": "Presidential Election of 2020;Presidential Election of 2016;Polls and Public Opinion;United States Politics and Government;Electoral College;Presidential Elections (US);Biden, Joseph R Jr;Trump, Donald J;Lichtman, Allan J;United States",
+    "column": null,
+    "byline": "By Allan Lichtman",
+    "type": "Article",
+    "title": "He Predicted Trump\u2019s Win in 2016. Now He\u2019s Ready to Call 2020.",
+    "abstract": "Most historians just study the past. But Allan Lichtman has successfully predicted the future.",
+    "des_facet": [
+      "Presidential Election of 2020",
+      "Presidential Election of 2016",
+      "Polls and Public Opinion",
+      "United States Politics and Government",
+      "Electoral College",
+      "Presidential Elections (US)"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Biden, Joseph R Jr",
+      "Trump, Donald J",
+      "Lichtman, Allan J"
+    ],
+    "geo_facet": [
+      "United States"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "",
+        "approved_for_syndication": 0,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-thumbStandard.png",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-mediumThreeByTwo210.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-mediumThreeByTwo440.png",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  },
+  {
+    "uri": "nyt://article/032186fa-9b3c-5b5a-b53e-091c35fab634",
+    "url": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html",
+    "id": 100000007280530,
+    "asset_id": 100000007280530,
+    "source": "New York Times",
+    "published_date": "2020-08-10",
+    "updated": "2020-08-11 15:15:22",
+    "section": "World",
+    "subsection": "",
+    "nytdsection": "world",
+    "adx_keywords": "Coronavirus (2019-nCoV)",
+    "column": null,
+    "byline": "",
+    "type": "Article",
+    "title": "Trump\u2019s Order on Coronavirus Relief Alarms Governors as Stimulus Talks Stall",
+    "abstract": "The Trump administration is ordering schools on Native American reservations to reopen. California\u2019s chief health officer has resigned. The pandemic has now sickened more than 20 million people, according to a Times database.",
+    "des_facet": [
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "media": [
+      {
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "The New York Times",
+        "approved_for_syndication": 1,
+        "media-metadata": [
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210
+          },
+          {
+            "url": "https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo440.jpg",
+            "format": "mediumThreeByTwo440",
+            "height": 293,
+            "width": 440
+          }
+        ]
+      }
+    ],
+    "eta_id": 0
+  }
+]
