@@ -1,16 +1,10 @@
-# we can make set from a list
-# Output: {1, 2, 3}
-my_set = set([1, 2, 3, 2 ,2,"haha"])
+test = "3.49648e+07|3.5e+07"
 
-my_set.add(10)
-my_set.add(10)
-print(my_set)
 
-dic = {}
-# set cannot have mutable items
-# here [3, 4] is a mutable list
-# this will cause an error.
+l = test.strip("{}").split("|")
+        # Get string without 0's
+l1, l2 = str(l[0]).replace("e+", "").replace("0", ""), str(l[1]).replace("e+", "").replace("0", "")
 
-dic["a"] = set([type(1.1), type([]), type(None)])
+i =3.5 * pow(10, 22)
 
-print(dic["a"])
+print(int(i))

@@ -43,32 +43,49 @@ FIELDS = ["name", "timeZone_label", "utcOffset", "homepage", "governmentType_lab
 def audit_file(filename, fields):
 
     fieldtypes = {}
-    my_set = set()
+    for i in fields:
+        fieldtypes[i] = set([])
+    counter = 0
+    
     with open(filename,"r") as file :
 
         reader = csv.DictReader(file)
-        headers = reader.fieldnames
-        
+        #headers = reader.fieldnames
+        for i  in range(3):
+            next(reader)
         for row in reader:
 
             for fields_name in fields :
+               
                 field = row[fields_name]
-                fieldtypes = { fields_name : my_set.add(type(field))}
-                #print(fieldtypes)
+                
+                if( field == "" or field =="NULL"):
+                         fieldtypes [fields_name].add(type(None))
+                elif (field.startswith("{")):
+                        fieldtypes [fields_name].add(list)
+                else :
+                    try :
+                        field = int(field)
+                        fieldtypes [fields_name].add(int)
+                    except ValueError:
+                        try :
+                            field = float(field)
+                            fieldtypes [fields_name].add(float)
+                        except ValueError:
+                            fieldtypes [fields_name].add(str)
 
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-    print(my_set)
-
+                
+        
 
     return fieldtypes
 
 
 def test():
     fieldtypes = audit_file(CITIES, FIELDS)
-
     pprint.pprint(fieldtypes)
-
-    assert fieldtypes["areaLand"] == set([type(1.1), type([]), type(None)])
+    print("---------------")
+  
+    assert fieldtypes['areaLand'] == set([type(1.1), type([]), type(None)])
     assert fieldtypes['areaMetro'] == set([type(1.1), type(None)])
     
 if __name__ == "__main__":
