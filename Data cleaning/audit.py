@@ -83,7 +83,6 @@ def audit_file(filename, fields):
 def test():
     fieldtypes = audit_file(CITIES, FIELDS)
     pprint.pprint(fieldtypes)
-    print("---------------")
   
     assert fieldtypes['areaLand'] == set([type(1.1), type([]), type(None)])
     assert fieldtypes['areaMetro'] == set([type(1.1), type(None)])
