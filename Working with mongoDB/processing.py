@@ -78,11 +78,12 @@ def process_file(filename, fields):
             dicts = {}
             class_dict= {}
             for f in process_fields:
-
+                    # Removing "(spider)" from label
                     line["rdf-schema#label"] = line["rdf-schema#label"].split("(")[0].strip()
-                    if(line["name"] == "NULL" or check_numerical( line["name"]) !=True):
+                    # if 'name' is "NULL" or contains non-alphanumeric characters, set it to the  same value as 'label'.
+                    if(line["name"] == "NULL" or check_numerical( line["name"]) != True):
                        line["name"] = line["rdf-schema#label"]
-                  
+                    # Creat sub-dictionary
                     if("_label" in f ):
                         if( line[f]== "NULL"):
                             class_dict[fields.get(f)] = None
@@ -118,6 +119,7 @@ def parse_array(v):
         return v_array
     return [v]
 
+# Check if a string contains non-alphanumeric characters
 def check_numerical(s):
       if re.match('^[a-zA-Z0-9]+$',s): # si ne contien pas 
         return True
@@ -128,7 +130,6 @@ def test():
     data = process_file(DATAFILE, FIELDS)
     print ("Your first entry:")
     pprint.pprint(data[0])
-
 
     first_entry = {
         "synonym": None, 
@@ -145,8 +146,7 @@ def test():
         "label": "Argiope", 
         "description": "The genus Argiope includes rather large and spectacular spiders that often have a strikingly coloured abdomen. These spiders are distributed throughout the world. Most countries in tropical or temperate climates host one or more species that are similar in appearance. The etymology of the name is from a Greek name meaning silver-faced."
     }
-    print("***************************")
-    print(data[48]["label"])
+
     assert len(data) == 76
     assert data[0] == first_entry
     assert data[17]["name"] == "Ogdenia"

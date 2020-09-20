@@ -1,12 +1,5 @@
+from pymongo import MongoClient
 
-import re
-
-
-a ="123jdkjkk!"
-
-
-
-b=a.strip("j")
-
-
-print(b)
+client = MongoClient("mongodb://localhost:27017")
+db = client.examples
+print (db.arachnid.find_one())
